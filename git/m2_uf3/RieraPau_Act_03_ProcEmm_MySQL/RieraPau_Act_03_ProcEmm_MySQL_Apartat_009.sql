@@ -40,5 +40,3 @@ begin
 end//
 
 delimiter ;
-
--- call Procedure();
