@@ -5,9 +5,9 @@ Revisió dels exercicis de la **unitat formativa 3** del **mòdul professional 2
 |Enunciat|Fitxer|Comentari|Nota|
 |--------|------|---------|----|
 |**Enunciat 9**| [Act09.sql]() | | |
-|**Enunciat 11**| | | |
-|**Enunciat 12**| | | |
-|**Enunciat 13**| | | |
+|**Enunciat 11**| [Act09.sql]() | | |
+|**Enunciat 12**| [Act09.sql]() | | |
+|**Enunciat 13**| [Act09.sql]() | | |
 
 # **Enunciat 8**:
 
