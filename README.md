@@ -1,7 +1,5 @@
 # Correcció exercicis
 
-Revisió dels exercicis de la **unitat formativa 3** del **mòdul professional 2**.
-
 |Enunciat|Fitxer|Comentari|Nota|
 |--------|------|---------|----|
 |**Enunciat 9**| [Act09.sql]() | | |
