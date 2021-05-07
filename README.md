@@ -2,7 +2,7 @@
 
 |Enunciat|Fitxer|Comentari|Nota|
 |--------|------|---------|----|
-|**Enunciat 9**| [Act09.sql]() | | |
+|**Enunciat 9**| [Act09.sql](https://github.com/paurigine/exercicis_mp02_uf03/blob/main/git/m2_uf3/RieraPau_Act_03_ProcEmm_MySQL/RieraPau_Act_03_ProcEmm_MySQL_Apartat_009.sql) | | |
 |**Enunciat 11**| [Act11.sql]() | | |
 |**Enunciat 12**| [Act12.sql]() | | |
 |**Enunciat 13**| [Act13.sql]() | | |
@@ -13,7 +13,7 @@
 
 **1. Enllaç al fitxer**
 
-[Act09.sql]()
+[Act09.sql](https://github.com/paurigine/exercicis_mp02_uf03/blob/main/git/m2_uf3/RieraPau_Act_03_ProcEmm_MySQL/RieraPau_Act_03_ProcEmm_MySQL_Apartat_009.sql)
 
 **2. Contingut del fitxer**
 
